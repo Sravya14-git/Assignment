@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Assignment</string>
+
+    <string-array name="rules_array">
+        <item> Odd Numbers</item>
+        <item> Even Numbers</item>
+        <item> Prime Numbers</item>
+        <item> Fibonacci Sequence</item>
+
+    </string-array>
+
+</resources>
